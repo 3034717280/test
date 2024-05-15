@@ -1,0 +1,24 @@
+﻿  main.cpp
+d:\zy\xinshiji\xinshiji\main.cpp(68): warning C4018: “<”: 有符号/无符号不匹配
+d:\zy\xinshiji\xinshiji\main.cpp(302): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“Enemy::{ctor}::SpawnEdge”
+d:\zy\xinshiji\xinshiji\main.cpp(306): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“Enemy::{ctor}::SpawnEdge”
+d:\zy\xinshiji\xinshiji\main.cpp(310): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“Enemy::{ctor}::SpawnEdge”
+d:\zy\xinshiji\xinshiji\main.cpp(313): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“Enemy::{ctor}::SpawnEdge”
+d:\zy\xinshiji\xinshiji\main.cpp(395): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“Button::Status”
+d:\zy\xinshiji\xinshiji\main.cpp(410): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“Button::Status”
+d:\zy\xinshiji\xinshiji\main.cpp(413): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“Button::Status”
+d:\zy\xinshiji\xinshiji\main.cpp(416): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“Button::Status”
+d:\zy\xinshiji\xinshiji\main.cpp(426): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“Button::Status”
+d:\zy\xinshiji\xinshiji\main.cpp(427): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“Button::Status”
+d:\zy\xinshiji\xinshiji\main.cpp(428): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“Button::Status”
+d:\zy\xinshiji\xinshiji\main.cpp(429): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“Button::Status”
+d:\zy\xinshiji\xinshiji\main.cpp(433): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“Button::Status”
+d:\zy\xinshiji\xinshiji\main.cpp(436): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“Button::Status”
+d:\zy\xinshiji\xinshiji\main.cpp(595): warning C4018: “<”: 有符号/无符号不匹配
+d:\zy\xinshiji\xinshiji\main.cpp(598): warning C4018: “<”: 有符号/无符号不匹配
+d:\zy\xinshiji\xinshiji\main.cpp(610): warning C4018: “<”: 有符号/无符号不匹配
+d:\zy\xinshiji\xinshiji\main.cpp(612): warning C4018: “<”: 有符号/无符号不匹配
+d:\zy\xinshiji\xinshiji\main.cpp(639): warning C4018: “<”: 有符号/无符号不匹配
+d:\zy\xinshiji\xinshiji\main.cpp(641): warning C4018: “<”: 有符号/无符号不匹配
+  LINK : 没有找到 D:\ZY\Xinshiji\Debug\Xinshiji.exe 或上一个增量链接没有生成它；正在执行完全链接
+  Xinshiji.vcxproj -> D:\ZY\Xinshiji\Debug\Xinshiji.exe
